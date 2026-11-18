@@ -1,3 +1,5 @@
 vendor/
 *.ini
 *.mp3
+Dockerfile
+*.yml
